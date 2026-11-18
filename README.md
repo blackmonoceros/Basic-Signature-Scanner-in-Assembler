@@ -1,5 +1,5 @@
 # Technical Analysis: How the Assembly Antivirus Engine Works
-
+ 
 This module serves as a **Signature-Based Scanner**, the most fundamental component of any security software. Implementing this in **Assembly** allows for maximum performance and low-level control over the CPU and memory, which is essential when scanning massive amounts of data for malicious patterns.
 
 ---
